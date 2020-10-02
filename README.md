@@ -21,7 +21,7 @@ Originally created as "electron-mattermost" by Yuya Ochiai. Developed using [Ele
 * Installs as native application
 
 ### Pre-packaged
-You don't have to install any other software.
+You don't have to install any other software. Everything is out of the box.
 Packages are available on the [releases page](http://github.com/mattermost/desktop/releases).
 
 ## Usage
